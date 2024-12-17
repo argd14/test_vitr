@@ -1,5 +1,6 @@
 export const COLORS = {
   LIGHT_BLUE: '#79CBFD',
+  GREEN: '#2EA679',
   BLUE: '#1A287A',
   LINK: '#3773CA',
   ORANGE: '#FC541F',
